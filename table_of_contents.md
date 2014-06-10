@@ -37,9 +37,8 @@ Some of the topics I would like to include:
   - 37
   - ii V I (major), ii7b5 V7alt i6 (minor)
   - altered dominants
-    - (
+    - (name?) LH 37 + triad RH voicings
   - drop 2
-  - 
 - Intros / Outros
   - Blues riffs
 - Substitutions
