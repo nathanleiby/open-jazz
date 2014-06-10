@@ -1,0 +1,51 @@
+Some of the topics I would like to include:
+
+- Scales
+  - Major
+  - Minor
+  - Diminished (WT/HT or HT/WT)
+  - Whole Tone (WT)
+  - Modes - Dorian ... Locrian
+- Soloing
+  - Vertical - scale(s) for each chord symbol
+  - Tonal Centers - focus on the chord that you will resolve to
+  - Making the Changes - 
+  - Guide Tones - 3s and 7s; the notes that define the chords
+  - Analysis of Solos
+  - Motifs
+  - Circling the target note
+- Chord Progressions
+  - V I
+  - ii V I
+  - iii vi ii V I
+  - I vi ii V - Rhythm Changes
+- The Blues
+  - 12 Bar Blues - all variations and chord substitutions
+  - 8 Bar Blues
+- Ear Training
+  - Intervals - example songs
+  - Blues heads
+  - Classic riffs
+  - Learning solos by ear
+- Comping
+- Left Hand Accompaniment
+  - Stride
+  - Walking bass
+  - Bossa
+  - Blues
+- Chord Voicings
+  - 37
+  - ii V I (major), ii7b5 V7alt i6 (minor)
+  - altered dominants
+    - (
+  - drop 2
+  - 
+- Intros / Outros
+  - Blues riffs
+- Substitutions
+  - Tritone
+  - Pedal done
+- Latin Rhythms
+  - Montunos
+  - Basics of drums, the clave
+
