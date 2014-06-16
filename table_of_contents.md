@@ -9,11 +9,11 @@ Some of the topics I would like to include:
 - Soloing
   - Vertical - scale(s) for each chord symbol
   - Tonal Centers - focus on the chord that you will resolve to
-  - Making the Changes - 
+  - Making the Changes -
   - Guide Tones - 3s and 7s; the notes that define the chords
   - Analysis of Solos
   - Motifs
-  - Circling the target note
+  - Circling the target note (HT below, ScaleTone above)
 - Chord Progressions
   - V I
   - ii V I
