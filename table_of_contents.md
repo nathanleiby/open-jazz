@@ -14,6 +14,11 @@ Some of the topics I would like to include:
   - Analysis of Solos
   - Motifs
   - Circling the target note (HT below, ScaleTone above)
+  - Style:
+    - short phrases.
+    - lots of space.
+    - coming in at unpredictable times.
+    - consider having blocks that support the RH, vs just comping for it
 - Chord Progressions
   - V I
   - ii V I
